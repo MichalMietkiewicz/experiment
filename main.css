@@ -295,12 +295,105 @@ body{
  }
 .category-logo{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 .that-red-line{
   border: 1px solid #000;
   border-color: #d11632;
-  width: 20rem;
+  width: 11.5rem;
   border-bottom: 0;
-  margin-right: 30rem;
+  margin-left: 25.6rem;
+  margin-top: 13.5rem;
+  border-left: 0;
+  border-right: 0;
+}
+.category-text{
+  font-size: 3.8rem;
+  font-weight: 200;
+  font-family: "Roboto" , sans-serif;
+  margin-left: 39.5rem;
+  margin-top: -4.2rem;
+  width: 100rem;
+}
+.cat-main-cont{
+  font-size: 1.8rem;
+  font-family: "Roboto" , sans-serif;
+  margin-top: 4.5rem;
+  width: 90rem;
+  margin-left: 40rem;
+  line-height: 3rem;
+  font-weight: 100;
+  word-spacing: 0.3rem;
+}
+.category-link{
+  color: #0075ff;
+  font-size: 2.5rem;
+    font-family: "Roboto" , sans-serif;
+    text-decoration: none;
+    margin-left: 92.5rem;
+    margin-top: -10rem;
+    font-weight: 100;
+}
+.eight-imgs{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  font-family: "Roboto" , sans-serif;
+  color: #fff;
+  width: 180rem;
+  margin-top: 4.4rem;
+  justify-content: center;
+  margin-left: 5rem;
+
+}
+.blu-box{
+  width: 33.3rem;
+  background-color: #0075ff;
+  height: 12rem;
+  border-radius: 12.5px;
+  margin-right: 3.3rem;
+  overflow: hidden;
+  margin-top: 3.4rem;
+  font-size: 1.8rem;
+  font-weight: 800;
+  display: flex;
+  flex-direction: row;
+}
+.blu-box-text{
+  margin-left: 6.5rem;
+  margin-top: 4.8rem;
+}
+.b-b-img{
+  margin-right: -3rem;
+  margin-left: -5rem;
+}
+.blocker{
+  display: block;
+}
+.all-cat{
+  font-size: 1.8rem;
+  color: #0075ff;
+  margin-top: 16rem;
+  font-weight: 600;
+  font-family: "Roboto" , sans-serif;
+}
+.all-cat-cont{
+  margin-left: 136.5rem;
+  margin-top: 2.8rem;
+}
+.tutorial-base{
+  font-size: 3.8rem;
+  font-weight: 200;
+  font-family: "Roboto" , sans-serif;
+  margin-left: 39.5rem;
+  margin-top: -4.2rem;
+  width: 100rem;
+}
+.parp-def{
+  font-size: 1.8rem;
+  font-family: "Roboto" , sans-serif;
+  margin-top: 6.2rem;
+  width: 80rem;
+  margin-left: 40rem;
+  line-height: 3rem;
 }
